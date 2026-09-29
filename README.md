@@ -1,3 +1,7 @@
+<img width="1840" height="720" alt="portrait-overview" src="https://github.com/user-attachments/assets/c8fd4379-30ec-4c6a-8927-1cdf459d612a" />
+<img width="1340" height="1230" alt="landscape-overview" src="https://github.com/user-attachments/assets/4c73d141-3223-49a5-b927-fa701b04f7a1" />
+
+
 # Glowtank — portrait + landscape
 
 For the **non-touch Waveshare ESP32-C6-LCD-1.47**. One firmware runs **Realistic, Fantasy, Comb Jellies, Abyss and Pokémon** in both **172 × 320 portrait** and **320 × 172 landscape**.
