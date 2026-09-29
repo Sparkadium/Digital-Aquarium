@@ -1,0 +1,2 @@
+cb0661a15366ad58f09fca8a9602fff1caeb9657af7edf7d1ef2b078a614638c  Glowtank-7-dual-orientation-app.bin
+c05702a7e813004d5704aa243347b4de202b01f9c202953fb05aa95d9db763aa  Glowtank-7-dual-orientation-full.bin
